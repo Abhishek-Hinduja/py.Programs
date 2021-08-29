@@ -1,0 +1,1 @@
+Once in a life. Somehow everyone is curious to check his internet speed in internet on internetspeedtest. They show two speeds one is upload speed and second is download speed. we will demonstrate this in python by using external module called speedtest..
